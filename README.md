@@ -1,5 +1,5 @@
 # 3 Problems
-1)Hamd Written Digit Recognition with 'MNIST dataset' and 'MNIST-rot dataset'
+1)Hand Written Digit Recognition with 'MNIST dataset' and 'MNIST-rot dataset'
 
 2)Alzheimer Detectetion using 'neuro-dataset'
 
