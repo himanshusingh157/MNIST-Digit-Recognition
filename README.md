@@ -1,8 +1,8 @@
 # Hand Written Digit Recognition
-**Its Divide in two part:**
+**Its Divide in two part:**\
 **i)The MNIST dataset where digits are normal with rotation**
-Used Simple CNN structure to classify the images into respective label
-Accuracy obtained 98.84% on Test data.
+Used Simple CNN structure to classify the images into respective label\
+Accuracy obtained 98.84% on Test data.\
 **ii)The MNIST-rot dataset where digits are rotated at a random angle**
 
 
