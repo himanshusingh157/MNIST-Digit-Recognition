@@ -1,8 +1,11 @@
 # Hand Written Digit Recognition
 **Its Divide in two part:**\
 **i)The MNIST dataset where digits are normal with rotation**
+*Filename : MNIST.py*\
+Dataset contains 50000 training example and 10000 test examples\
 Used Simple CNN structure to classify the images into respective label\
 Accuracy obtained 98.84% on Test data.\
+\
 **ii)The MNIST-rot dataset where digits are rotated at a random angle**
 
 
